@@ -1,1 +1,2 @@
 yes both are friend
+https://github.com/ravdy/maven-hello-world.git
